@@ -28,7 +28,7 @@
   - Length: 1 day
   - Date: November 23, 2022
  
-- **[SIB PhD Network Annual Retreat: Data Presentation SKills](https://github.com/pdegen/udemy-certificates/blob/main/certificates/certificate-of-achievement-SIB_PhD_Retreat-Degen_Peter.pdf)**
+- **[SIB PhD Network Annual Retreat: Data Presentation Skills](https://github.com/pdegen/udemy-certificates/blob/main/certificates/certificate-of-achievement-SIB_PhD_Retreat-Degen_Peter.pdf)**
   - Organization: Swiss Institute of Bioinformatics
   - Length: 3 days
   - Date: October 12, 2022
