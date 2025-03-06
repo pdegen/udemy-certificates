@@ -1,5 +1,11 @@
 # Certificates
 
+- **[Python: Coding Guidelines, Tools, Tests and Packages](https://www.udemy.com/certificate/UC-8ae94de0-0a07-46e5-8733-22cf53fbfda6/)**
+  - Organization: Udemy
+  - Description: Step ahead in your Python career and learn about PEP8, Unit-Testing (TDD), Type Annotations and Python Packaging.
+  - Length: 5.5 hours
+  - Date: March 6, 2025
+  
 - **[The Git & Github Bootcamp](https://www.udemy.com/certificate/UC-903e71c9-410e-4a5f-a732-569f46d3660a/)**
   - Organization: Udemy
   - Description: Master the essentials and the tricky bits: rebasing, squashing, stashing, reflogs, blobs, trees, & more!
